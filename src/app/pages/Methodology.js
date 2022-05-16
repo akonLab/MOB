@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Line, Bar, Doughnut, Pie, Scatter } from 'react-chartjs-2';
+
 
 export class Methodology extends Component {
 
